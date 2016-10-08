@@ -1,0 +1,12 @@
+C:\Users\cassarma\Documents\DelWall\DelWall\bin\Release\DelWall.exe.config
+C:\Users\cassarma\Documents\DelWall\DelWall\bin\Release\DelWall.exe
+C:\Users\cassarma\Documents\DelWall\DelWall\bin\Release\DelWall.pdb
+C:\Users\cassarma\Documents\DelWall\DelWall\obj\Release\DelWall.exe
+C:\Users\cassarma\Documents\DelWall\DelWall\obj\Release\DelWall.pdb
+C:\Users\cassarma\Documents\DelWall\DelWall\obj\Release\DelWall.csprojResolveAssemblyReference.cache
+C:\Users\cassarma\Documents\DelWall\DelWall\obj\Release\DelWall.Properties.Resources.resources
+C:\Users\cassarma\Documents\DelWall\DelWall\obj\Release\DelWall.WPPreview.resources
+C:\Users\cassarma\Documents\DelWall\DelWall\obj\Release\DelWall.csproj.GenerateResource.Cache
+D:\Projects & Studies\DelWall\DelWall\bin\Release\DelWall.exe.config
+D:\Projects & Studies\DelWall\DelWall\obj\Release\DelWall.exe
+D:\Projects & Studies\DelWall\DelWall\obj\Release\DelWall.pdb
